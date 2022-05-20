@@ -1,0 +1,46 @@
+@charset "UTF-8";
+/*img*/
+img.title {
+    display: flex;
+    position: relative;
+    top: 16%;
+    left: 90%;
+}
+img.image{
+    position: relative;
+    /*left: 26.08%;*/
+    /*right: 51.31%;*/
+    top: 34.42%;
+    bottom: 47.06%;
+
+    border-radius: 18.6072px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+/*title*/
+
+.block-title h3{
+    position: relative;
+    right: -1%;
+    top: 17%;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 100%;
+
+    color: #172B4A;
+}
+/*row*/
+
+element.style {
+}
+.row>*{
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(-1 * var(--bs-gutter-y));
+    margin-right: calc(-.5 * var(--bs-gutter-x));
+    margin-left: calc(-.5 * var(--bs-gutter-x));
+}
