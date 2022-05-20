@@ -23,7 +23,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6 col-card-course ">
                     <a href="#box-form" class="link-courses" data-course-city="" data-course-name="ADMINISTRAÇÃO">
-                        <div class="box-card-course" style="background-image: linear-gradient(to bottom, rgb(0 0 0 / 59%), rgb(0 0 0 / 59%)), url('/wp-content/themes/vestibular/assets/img/course/Administracao.webp'); background-size: cover;" title="ADMINISTRAÇÃO">
+                        <div class="box-card-course" style="background-image: linear-gradient(to bottom, rgb(0 0 0 / 59%), rgb(0 0 0 / 59%)), url('https://vestibular.faculdadesprominas.com.br/wp-content/themes/vestibular/assets/img/course/Administracao.webp'); background-size: cover;" title="ADMINISTRAÇÃO">
                             <h3 class="card-title title-course-area">ADMINISTRAÇÃO</h3>
                             <h5 class="card-title sub-title-course-area">Duração: 8 semestres </h5>
                             <h5 class="card-title sub-title-course-area">Grau: bacharelado</h5>
