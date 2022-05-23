@@ -22,7 +22,7 @@
     padding: 10px;
     border-radius: 15px;
     margin-bottom: 25px;
-    font-weight: bold;
+
 }
 .col-card-course a{
     text-decoration: none;
@@ -34,6 +34,7 @@ h3.card-title.title-course-area{
     color: white;
     margin-top: 5px;
     margin-bottom: 10px;
+    font-weight: bold;
 }
 h5.card-title.sub-title-course-area{
     color: white;
